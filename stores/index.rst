@@ -1,0 +1,7 @@
+Stores
+======
+
+.. toctree::
+    :glob:
+
+    *

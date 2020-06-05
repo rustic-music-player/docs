@@ -1,0 +1,7 @@
+Frontends
+=========
+
+.. toctree::
+    :glob:
+
+    *

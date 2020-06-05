@@ -1,0 +1,7 @@
+Providers
+=========
+
+.. toctree::
+    :glob:
+
+    *
